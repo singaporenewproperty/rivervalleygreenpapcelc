@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rivervalleygreenparcelcadmin.showflat.com.sg/sitemap.xml
